@@ -1,0 +1,9 @@
+engineering:
+  label: Engineering
+  permalink: /engineering
+  description: All engineering posts
+
+reactor:
+  label: Reactor
+  permalink: /reactor
+  description: All reactor posts
