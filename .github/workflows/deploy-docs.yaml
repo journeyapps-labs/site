@@ -2,7 +2,7 @@ name: Deploy docs to GitHub Pages
 
 on:
   push:
-    branches: ['docs', 'main']
+    branches: ['docs', 'master']
 
 permissions:
   contents: read
