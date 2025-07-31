@@ -3,8 +3,8 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-    title: 'Reactor Docs',
-    tagline: 'Ambitious app building framework',
+    title: 'JourneyApps Labs',
+    tagline: 'Site for all JourneyApps Labs engineering efforts and projects.',
     favicon: 'img/favicon.ico',
 
     // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
