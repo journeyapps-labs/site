@@ -7,3 +7,9 @@ reactor:
   label: Reactor
   permalink: /reactor
   description: All reactor posts
+
+carbon:
+  label: Carbon
+  permalink: /carbon
+  description: All carbon posts
+
