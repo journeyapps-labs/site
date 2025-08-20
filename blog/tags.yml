@@ -6,10 +6,14 @@ engineering:
 reactor:
   label: Reactor
   permalink: /reactor
-  description: All reactor posts
+  description: All Reactor posts
 
 carbon:
   label: Carbon
   permalink: /carbon
-  description: All carbon posts
+  description: All Carbon posts
 
+sector:
+  label: Sector
+  permalink: /sector
+  description: All Sector posts
